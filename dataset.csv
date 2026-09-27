@@ -1,0 +1,11 @@
+ID,Date,Ligne_Production,Produit,Quantite_Inspectee,Defauts_Trouves,Statut,Inspecteur
+1,2026-09-01,Ligne A,Moteur V6,150,3,Conforme,Karim Bennani
+2,2026-09-02,Ligne B,Transmissions,200,12,Non Conforme,Youssef Amrani
+3,2026-09-03,Ligne C,Pompe Hydraulique,80,1,Conforme,Sara Alami
+4,2026-09-04,Ligne A,Moteur V6,160,8,Alerte,Karim Bennani
+5,2026-09-05,Ligne B,Transmissions,220,5,Conforme,Youssef Amrani
+6,2026-09-06,Ligne C,Boîte de Vitesses,95,2,Conforme,Sara Alami
+7,2026-09-07,Ligne A,Moteur V6,140,15,Non Conforme,Karim Bennani
+8,2026-09-08,Ligne B,Transmissions,210,4,Conforme,Youssef Amrani
+9,2026-09-09,Ligne C,Pompe Hydraulique,110,0,Conforme,Sara Alami
+10,2026-09-10,Ligne A,Boîte de Vitesses,130,7,Alerte,Karim Bennani
